@@ -84,6 +84,7 @@ const Body = () => {
                     <li className="list-group-item">{numArr[4]} is a {numArr[3] ? "Palindrome" : "not a Palindrome"} Number.</li>
                 </ul>
             </div>
+            <h1>@Akash_react_2020</h1>
         </div>
     )
 }
